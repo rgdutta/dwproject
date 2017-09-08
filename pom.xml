@@ -27,8 +27,8 @@
 
     <repositories>
         <repository>
-            <id>sonatype-nexus-snapshots</id>
-            <name>Sonatype Nexus Snapshots</name>
+            <id>artifactory</id>
+            <name>Atifactory</name>
             <url>http://gurur.jfrog.team/artifactory/repo/</url>
         </repository>
     </repositories>
